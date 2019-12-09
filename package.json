@@ -1,0 +1,12 @@
+{
+  "name": "search-list",
+  "version": "1.0.0",
+  "description": "## 说明 - 基于node实现的一个简单小工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
